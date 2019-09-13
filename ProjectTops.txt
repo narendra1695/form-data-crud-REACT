@@ -1,0 +1,7 @@
+Please, look for the below mentioned points that I have added to be reviewed, keeping the primaryfunctionality intact:
+1. Project file structure
+2. Logical commenting
+3. Attractive UI
+4. Responsive UI 
+5. Has functionality to completely remove the form input
+6. Use of pre html tag (<pre> </pre>)
